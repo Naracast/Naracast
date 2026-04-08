@@ -6,5 +6,8 @@ Obrigada por visitar o meu perfil :)
 
 Meu Linkedin - https://www.linkedin.com/in/ynara/
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+
 
 
